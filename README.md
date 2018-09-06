@@ -80,7 +80,7 @@
   <tr>
     <td valign="top"><img src="./img/violet.jpg" /></td>
     <td valign="top">
-      <b>Violet</b>
+      <b>Violet*</b>
     </td>
   </tr>
   <tr>
