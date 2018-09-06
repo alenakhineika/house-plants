@@ -6,14 +6,14 @@
     <th>Info</th>
   </tr>
   <tr>
-    <td><img src="./img/yucca_elephantipe.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/yucca_elephantipe.jpg" /></td>
+    <td valign="top">
       <b>Yucca Elephantipes</b>
     </td>
   </tr>
   <tr>
-    <td><img src="./img/ficus_microcarpa_moclame.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/ficus_microcarpa_moclame.jpg" /></td>
+    <td valign="top">
       <b>Ficus Microcarpa Moclame</b><br />
       <img width="30" src="./img/sun_and_cloud.png" />
       <img width="27" src="./img/water2.png" /><br />
@@ -21,14 +21,14 @@
     </td>
   </tr>
   <tr>
-    <td><img src="./img/calathea_hybriden.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/calathea_hybriden.jpg" /></td>
+    <td valign="top">
       <b>Calathea Hybriden</b>
     </td>
   </tr>
   <tr>
-    <td><img src="./img/zamioculcas_zamiifolia.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/zamioculcas_zamiifolia.jpg" /></td>
+    <td valign="top">
       <b>Zamioculcas Zamiifolia</b><br />
       <img width="30" src="./img/sun_and_cloud.png" />
       <img width="27" src="./img/water1.png" style="margin-left: 5px" /><br />
@@ -36,8 +36,8 @@
     </td>
   </tr>
   <tr>
-    <td><img src="./img/chrysalidocarpus_lutescens.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/chrysalidocarpus_lutescens.jpg" /></td>
+    <td valign="top">
       <b>Chrysalidocarpus Lutescens</b><br />
       <img width="30" src="./img/sun_and_cloud.png" />
       <img width="27" src="./img/water2.png" style="margin-left: 5px" /><br />
@@ -48,16 +48,16 @@
     </td>
   </tr>
   <tr>
-    <td><img src="./img/dracaena_marginata.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/dracaena_marginata.jpg" /></td>
+    <td valign="top">
       <b>Dracaena Marginata</b><br />
       <img width="30" src="./img/sun_and_cloud.png" />
       <img width="27" src="./img/water2.png" style="margin-left: 5px" />
     </td>
   </tr>
   <tr>
-    <td><img src="./img/peperomia_obtusifolia.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/peperomia_obtusifolia.jpg" /></td>
+    <td valign="top">
       <b>Peperomia Obtusifolia</b><br />
       <img width="30" src="./img/sun.png" />
       <img width="30" src="./img/sun_and_cloud.png" />
@@ -66,26 +66,26 @@
     </td>
   </tr>
   <tr>
-    <td><img src="./img/araucaria_heterophylla.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/araucaria_heterophylla.jpg" /></td>
+    <td valign="top">
       <b>Araucaria Heterophylla*</b>
     </td>
   </tr>
   <tr>
-    <td><img src="./img/cactus.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/cactus.jpg" /></td>
+    <td valign="top">
       <b>Cactus*</b>
     </td>
   </tr>
   <tr>
-    <td><img src="./img/violet.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/violet.jpg" /></td>
+    <td valign="top">
       <b>Violet</b>
     </td>
   </tr>
   <tr>
-    <td><img src="./img/nephrolepis_green_lady.jpg" /></td>
-    <td>
+    <td valign="top"><img src="./img/nephrolepis_green_lady.jpg" /></td>
+    <td valign="top">
       <b>Nephrolepis Green Lady</b>
     </td>
   </tr>
