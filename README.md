@@ -89,4 +89,23 @@
       <b>Nephrolepis Green Lady</b>
     </td>
   </tr>
+  <tr>
+    <td valign="top"><img src="./img/monstera-eliciosa.jpg" /></td>
+    <td valign="top">
+      <b>Monstera Deliciosa*</b><br />
+      <img width="30" src="./img/sun_and_cloud.png" />
+      <img width="27" src="./img/water3.png" /><br />
+      Temperature: 20°C - 35°C
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./img/epipremnum-aur-ampel.jpg" /></td>
+    <td valign="top">
+      <b>Epipremnum Aur Ampel</b><br />
+      <img width="30" src="./img/sun.png" />
+      <img width="30" src="./img/sun_and_cloud.png" />
+      <img width="27" src="./img/water2.png" style="margin-left: 5px" /><br />
+      Temperature: 18°C - 22°C
+    </td>
+  </tr>
 </table>
