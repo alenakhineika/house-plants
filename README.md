@@ -108,4 +108,13 @@
       Temperature: 18°C - 22°C
     </td>
   </tr>
+  <tr>
+    <td valign="top"><img src="./img/calathea_zebrina.jpg" /></td>
+    <td valign="top">
+      <b>Calathea zebrina</b><br />
+      <img width="30" src="./img/sun_and_cloud.png" />
+      <img width="27" src="./img/water3.png" style="margin-left: 5px" /><br />
+      Temperature: 18°C - 23°C
+    </td>
+  </tr>
 </table>
